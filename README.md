@@ -1,4 +1,4 @@
-# Mini Project 2: Where Will Dicty Meet?
+### Mini Project 2: Where Will Dicty Meet?
 
 This project aims to predict the future aggregation location(s) of Dicty using only the early portion of each movie. To accomplish this task, we need to address the following two challenging problems:
 
